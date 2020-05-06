@@ -1,10 +1,10 @@
 ---
-title: Categories
-date: 2013-12-24 23:30:09
+title: test write
+date: 2020-05-06 15:09:00
 categories:
-- Foo
-- Bar
-- Baz
+- vue
+- python
+- test
 ---
 
-This post contains 3 categories. Make sure your theme can display all of the categories.
+testttt
