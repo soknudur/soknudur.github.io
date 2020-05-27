@@ -2,5 +2,4 @@
 layout: page
 type: about
 ---
-
-Building...
+이름 : 박성학
